@@ -7,7 +7,7 @@ toc: true
 List of MetaBuild videos and other reference material:
 
 
-* [Purpose of MetaBuild](video_purpose)
+* [Purpose of MetaBuild](video_purpose.md)
 
 * [Intro to MetaBuild](video_intro)
 
