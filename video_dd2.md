@@ -1,6 +1,6 @@
 ---
 permalink: /docs/videos/
-title: "video_dd2"
+title: "MetaBuild Deep Dive 2"
 toc: true
 ---
 

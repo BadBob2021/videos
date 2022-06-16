@@ -1,6 +1,6 @@
 ---
 permalink: /docs/videos/
-title: "video_uxp"
+title: "MetaBuild & UXP"
 toc: true
 ---
 

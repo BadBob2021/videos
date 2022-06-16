@@ -1,10 +1,10 @@
 ---
 permalink: /docs/videos/
-title: "video_intro"
+title: "Introduction to MetaBuild"
 toc: true
 ---
 
-## Intro to MetaBuild
+## Introduction to MetaBuild
 
 This is an introductory session on learning about MetaBuild, its purpose and history. It covers core features of MetaBuild, teams that currently use MetaBuild, and future vision and roadmap.
 

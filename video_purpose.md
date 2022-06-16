@@ -1,6 +1,6 @@
 ---
 permalink: /docs/videos/
-title: "video_purpose"
+title: "Purpose of MetaBuild"
 toc: true
 ---
 
