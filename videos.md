@@ -4,7 +4,7 @@ title: "List of MetaBuild Videos"
 toc: true
 ---
 
-List of MetaBuild videos:
+Following is a list of resources that are periodically updated for learning MetaBuild:
 
 * [Purpose of MetaBuild](video_purpose.md)
 * [Introduction to MetaBuild](video_intro.md)
