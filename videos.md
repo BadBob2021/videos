@@ -12,7 +12,7 @@ List of MetaBuild videos:
 * [MetaBuild Deep Dive 1 - Repos, tests, error reporting, debugging, source code overview](video_dd1.md)
 * [MetaBuild Deep Dive 2 - Architecture, build graph, using artifactory to add binaries](video_dd2.md)
 * [MetaBuild Deep Dive 3 - Create project, add build flags, glob operation, filters](video_dd3.md)
-* [MetaBuild Deep Dive 4 - The `genrule(.md)` command](video_dd4.md)
+* [MetaBuild Deep Dive 4 - Using the `genrule` command](video_dd4.md)
 * [MetaBuild Deep Dive 5 - Dependencies, versioning, google test, updating documentation](video_dd5.md)
 * [MetaBuild Deep Dive 6 - Debugging and parallelism, processing nodes in the build graph](video_dd6.md)
 * [MetaBuild Deep Dive 7 - Parallelism (async, promise, tracing.md), TimeLogger and memoized functions](video_dd7.md)

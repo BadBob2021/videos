@@ -4,7 +4,7 @@ title: "MetaBuild Deep Dive 4"
 toc: true
 ---
 
-## MetaBuild Deep Dive 4 - The `genrule()` command
+## MetaBuild Deep Dive 4 - Using the `genrule()` command
 
 Topics: Using the `genrule()` command.
 
