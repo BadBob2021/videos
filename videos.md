@@ -1,10 +1,10 @@
 ---
 permalink: /docs/videos/
-title: "videos"
+title: "List of MetaBuild Videos"
 toc: true
 ---
 
-List of MetaBuild videos and other reference material:
+List of MetaBuild videos:
 
 * [Purpose of MetaBuild](video_purpose.md)
 * [Introduction to MetaBuild](video_intro.md)
