@@ -6,7 +6,7 @@ toc: true
 
 ## MetaBuild & UXP
 
-Topics: This is a recording of a knowledge session held by Chicu in order to introduce UXP engineering team to MetaBuild and how the two platforms work together.
+Topics: This is a recording of a knowledge session held by Alexandru Chiculita to introduce the UXP engineering team to MetaBuild and how the two platforms work together.
 
 Date: 19 Nov 2020
 
