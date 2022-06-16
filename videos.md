@@ -7,7 +7,7 @@ toc: true
 List of MetaBuild videos and other reference material:
 
 * [Purpose of MetaBuild](video_purpose.md)
-* [Intro to MetaBuild](video_intro.md)
+* [Introduction to MetaBuild](video_intro.md)
 * [MetaBuild & UXP](video_uxp.md)
 * [MetaBuild Deep Dive 1 - Repos, tests, error reporting, debugging, source code overview](video_dd1.md)
 * [MetaBuild Deep Dive 2 - Architecture, build graph, using artifactory to add binaries](video_dd2.md)
