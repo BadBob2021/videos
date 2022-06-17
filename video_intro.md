@@ -1,5 +1,4 @@
 ---
-permalink: /docs/videos/
 title: "Introduction to MetaBuild"
 toc: true
 ---

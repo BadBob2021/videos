@@ -1,5 +1,4 @@
 ---
-permalink: /docs/videos/
 title: "MetaBuild & UXP"
 toc: true
 ---

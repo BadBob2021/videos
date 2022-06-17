@@ -1,5 +1,4 @@
 ---
-permalink: /docs/videos/
 title: "Purpose of MetaBuild"
 toc: true
 ---
