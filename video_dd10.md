@@ -1,5 +1,4 @@
 ---
-permalink: /docs/videos/
 title: "MetaBuild Deep Dive 10"
 toc: true
 ---
