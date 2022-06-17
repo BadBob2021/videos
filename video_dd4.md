@@ -1,6 +1,8 @@
 ---
+layout: default
+nav_order: 70
+parent: Videos
 title: "MetaBuild Deep Dive 4"
-toc: true
 ---
 
 ## MetaBuild Deep Dive 4 - Using the `genrule()` command

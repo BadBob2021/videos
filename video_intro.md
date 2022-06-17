@@ -1,6 +1,8 @@
 ---
+layout: default
+nav_order: 20
+parent: Videos
 title: "Introduction to MetaBuild"
-toc: true
 ---
 
 ## Introduction to MetaBuild

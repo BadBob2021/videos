@@ -1,6 +1,8 @@
 ---
+layout: default
+nav_order: 110
+parent: Videos
 title: "MetaBuild Deep Dive 8"
-toc: true
 ---
 
 ## MetaBuild Deep Dive 8 - Meta project

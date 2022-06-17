@@ -1,6 +1,8 @@
 ---
+layout: default
+nav_order: 10
+parent: Videos
 title: "Purpose of MetaBuild"
-toc: true
 ---
 
 ## Purpose of MetaBuild

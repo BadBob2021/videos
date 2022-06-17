@@ -1,6 +1,8 @@
 ---
+layout: default
+nav_order: 40
+parent: Videos
 title: "MetaBuild Deep Dive 1"
-toc: true
 ---
 
 ## MetaBuild Deep Dive 1 - Repos, tests, error reporting, debugging, source code overview

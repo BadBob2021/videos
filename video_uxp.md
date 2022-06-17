@@ -1,6 +1,8 @@
 ---
+layout: default
+nav_order: 30
+parent: Videos
 title: "MetaBuild & UXP"
-toc: true
 ---
 
 ## MetaBuild & UXP

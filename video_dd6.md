@@ -1,6 +1,8 @@
 ---
+layout: default
+nav_order: 90
+parent: Videos
 title: "MetaBuild Deep Dive 6"
-toc: true
 ---
 
 ## MetaBuild Deep Dive 6 - Debugging and parallelism, processing nodes in the build graph

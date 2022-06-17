@@ -1,6 +1,8 @@
 ---
+layout: default
+nav_order: 100
+parent: Videos
 title: "MetaBuild Deep Dive 7"
-toc: true
 ---
 
 ## MetaBuild Deep Dive 7 - Parallelism (async, promise, tracing), TimeLogger and memoized functions
