@@ -1,11 +1,13 @@
 ---
 layout: default
-nav_order: 140
+nav_order: 120
 parent: Videos
 title: "MetaBuild Deep Dive 9"
 ---
 
 ## MetaBuild Deep Dive 9 - Builtin config, defines, option, flavor and build_spec
+
+Topics: Using builtin config, defines, option, flavor and `build_spec`.
 
 Topics: Using builtin config, defines, option, flavor and `build_spec`.
 
